@@ -1,0 +1,12 @@
+# Python & Virtual Environments
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FireTrace Projects & Scan Dumps
+projects/
+*.log
+
+
+FIRETRACE_SETUP.md
