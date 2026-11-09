@@ -67,7 +67,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/FireTrace.git
+git clone https://github.com/traceobservr/FireTrace.git
 cd FireTrace
 
 # Sync virtual environment and dependencies using uv
