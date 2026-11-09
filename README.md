@@ -151,3 +151,8 @@ uv run python -m unittest discover tests/
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<sub>**Development Note:** The initial TUI layout and project scaffolding were accelerated using LLM prompt engineering, combined with manual coding and refinement for the asynchronous backend, OS-level hooks, and security tool integrations.</sub>
+
